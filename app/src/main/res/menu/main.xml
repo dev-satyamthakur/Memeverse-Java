@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item  android:id="@+id/dankmemes"
+        android:title="Dank Memes"
+        app:showAsAction="never" />
+
+    <item  android:id="@+id/memes"
+        android:title="Memes"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/indiandankmemes"
+        android:title="Indian Dank Memes"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/indianmeymeys"
+        android:title="Indian Mey Meys"
+        app:showAsAction="never" />
+
+</menu>
