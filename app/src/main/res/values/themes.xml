@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.Memeverse" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#FF9800</item>
-        <item name="colorPrimaryVariant">#F57C00</item>#FFC107
+        <item name="colorPrimary">#42AAED</item>
+        <item name="colorPrimaryVariant">#2780B9</item>#FFC107
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>

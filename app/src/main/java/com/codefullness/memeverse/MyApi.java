@@ -7,7 +7,7 @@ import retrofit2.http.GET;
 
 public class MyApi {
 
-    private static final String URL = "https://meme-api.herokuapp.com/gimme/";
+    private static final String URL = "https://meme-api.com/gimme/";
 
     public static ApiService apiService = null;
 
